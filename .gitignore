@@ -1,0 +1,7 @@
+*.o
+*.out
+*.swp
+program
+.cproject
+.project
+.settings
